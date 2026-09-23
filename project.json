@@ -1,0 +1,38 @@
+{
+  "name": "Golf App",
+  "type": "personal-pwa",
+  "phase": 1,
+  "primary_goal": "Fast shot-by-shot golf scoring and personal performance analysis",
+  "navigation": [
+    "Home",
+    "Ronde",
+    "Analyse",
+    "Clubs",
+    "Mijn spel"
+  ],
+  "phase1_includes_course_library": true,
+  "offline_first": true,
+  "shot_based_data_model": true,
+  "implementation": "app/",
+  "status": "phase-1-prototype-playable",
+  "seed_courses": [
+    "Best Golf & Country Club",
+    "Golfbaan Het Woold",
+    "Golfclub Vught"
+  ],
+  "bag": [
+    "Driver",
+    "3W",
+    "5i",
+    "6i",
+    "7i",
+    "8i",
+    "9i",
+    "PW",
+    "AW",
+    "52°",
+    "56°",
+    "60°",
+    "Putter"
+  ]
+}
